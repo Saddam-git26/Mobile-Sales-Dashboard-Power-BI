@@ -1,11 +1,7 @@
 # Mobile-Sales-Dashboard-Power-BI
 Interactive Power BI dashboard analyzing mobile phone sales by brand, model, city &amp; payment method, with MTD and Same-Period-Last-Year time-intelligence reports using DAX.
-# 📱 Mobile Sales Dashboard | Power BI
-
-An interactive **Power BI dashboard** that analyses mobile phone sales across brands, models, cities and payment methods, with built-in **time-intelligence** reports (MTD and Same Period Last Year).
 
 ---
-
 ## 📌 Project Overview
 
 This project turns raw mobile sales transactions into an easy-to-explore, three-page report. It helps answer questions like:
